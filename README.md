@@ -7,5 +7,6 @@ https://www.python.org/downloads/
 <p>install playwright</p>
 <p>pip install pandas openpyxl</p>
 
-<h3>(Instruções de como usar no código)</h3>
+<h3>Instruções de como usar no código</h3>
 
+(Este foi utilizado para verificar se o link de venda de uma loja está disponível, ao procurar por uma palavra chave que aparece quando o link está disponível, automatizando o processo de verificar links um por um para testar sua funcionalidade)
